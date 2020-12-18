@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+-->
+
+I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/huangxt57)](https://badges.pufler.dev).
+
+
 - 🔭 I’m currently studying in Sun Yat-sen University running for a CS bachelor degree.
 
 - 🌱 I’m currently learning Computer Vision and High-Performance Comuputing both.
@@ -13,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [huangxt57@mail2.sysu.edu.cn](huangxt57@mail2.sysu.edu.cn).
 
-  -->
+  
 
 💻 Github Stats
 
