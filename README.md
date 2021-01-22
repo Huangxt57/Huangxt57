@@ -7,14 +7,15 @@ Here are some ideas to get you started:
 
 -->
 
-I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/huangxt57)](https://badges.pufler.dev).
+I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/huangxt57)](https://badges.pufler.dev) 
+![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS).
 
 
-- 🔭 I’m currently studying in Sun Yat-sen University running for a CS bachelor degree.
+- 🔭 I’m currently studying in Sun Yat-sen University running for a CS bachelor.
 
-- 🌱 I’m currently learning Computer Vision and High-Performance Comuputing both.
+- 🌱 I’m currently learning Computer Vision and High-Performance Computing both.
 
-- 🤔 I’m looking for help with image classification under noisy, video understanding, CUDA programming.
+- 🤔 I’m looking for help with video understanding, HPC programming.
 
 - 📫 How to reach me: [huangxt57@mail2.sysu.edu.cn](huangxt57@mail2.sysu.edu.cn).
 
