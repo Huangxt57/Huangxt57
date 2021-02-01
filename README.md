@@ -22,6 +22,9 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
