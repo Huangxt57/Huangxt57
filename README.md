@@ -19,7 +19,11 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 
 - 📫 How to reach me: [huangxt57@mail2.sysu.edu.cn](huangxt57@mail2.sysu.edu.cn).
 
-  
+
+🧑‍💻 Weekly Coding Statistics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 💻 Github Stats
 
