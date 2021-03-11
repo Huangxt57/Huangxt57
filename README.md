@@ -23,7 +23,11 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 March, 2021 - 10 March, 2021
+
+C++        1 hr 6 mins     ██████████████████▒░░░░░░   73.95 % 
+Markdown   16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Python     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 ```
 <!--END_SECTION:waka-->
 
