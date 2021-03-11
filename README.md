@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Huangxt57/Huangxt57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,18 +7,25 @@ Here are some ideas to get you started:
 
 -->
 
-I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/huangxt57)](https://badges.pufler.dev) 
+<!-- profile views -->
+
+
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Hsuan-Teng Hwang, a Github member for 
+![Years Badge](https://badges.pufler.dev/years/huangxt57) years and the number of visitors for this pages is 
 ![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS).
 
 
-- 🔭 I’m currently studying in Sun Yat-sen University running for a CS bachelor.
+- 🔭 I’m currently majoring in computer science in [SCSE](http://sdcs.sysu.edu.cn) of Sun Yat-sen University.
 
 - 🌱 I’m currently learning Computer Vision and High-Performance Computing both.
 
-- 🤔 I’m looking for help with video understanding, HPC programming.
+<!-- - 🤔 I’m looking for help with video understanding, HPC programming. -->
 
 - 📫 How to reach me: [huangxt57@mail2.sysu.edu.cn](huangxt57@mail2.sysu.edu.cn).
 
+<table align="center">
+
+<td>
 
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
@@ -31,15 +38,14 @@ Python     7 mins          ██░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+</td>
+
+<td>
 
 💻 Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huangxt57&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-📖 Top used languages
+</td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangxt57&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+</table>
