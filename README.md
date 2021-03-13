@@ -1,14 +1,6 @@
 ## Hi there
 
-<!--
-**Huangxt57/Huangxt57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
 <!-- profile views -->
-
 
 <img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Hsuan-Teng Hwang, a Github member for 
 ![Years Badge](https://badges.pufler.dev/years/huangxt57).
@@ -24,7 +16,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [huangxt57@mail2.sysu.edu.cn](huangxt57@mail2.sysu.edu.cn).
 
-A brief [résumé](https://huangxt57.github.io/about/) describing myself.
+A brief [résumé](http://melon-hwang.top/about/) describing myself.
 
 <table align="center">
 
