@@ -25,7 +25,7 @@ A brief [résumé](http://melon-hwang.top/about/) describing myself.
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 20 March, 2021 - 27 March, 2021
+Week: 21 March, 2021 - 28 March, 2021
 
 Python     5 hrs 32 mins   █████████████▓░░░░░░░░░░░   54.01 % 
 Other      2 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.31 % 
