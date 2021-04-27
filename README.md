@@ -25,7 +25,7 @@ A brief [résumé](http://melon-hwang.top/about/) describing myself.
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 18 April, 2021 - 25 April, 2021
+Week: 19 April, 2021 - 26 April, 2021
 
 Cuda       1 hr 12 mins    ██████████████████▒░░░░░░   73.50 % 
 Bash       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 % 
