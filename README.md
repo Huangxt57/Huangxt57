@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: [huangxt57@mail2.sysu.edu.cn](huangxt57@mail2.sysu.edu.cn).
 
-A brief [résumé](http://melon-hwang.top/about/) describing myself.
+A brief [résumé](https://www.notion.so/melonhwang/Huan-Teng-Hwang-415a0f2195b84c7b94f5c55668dfe98d) describing myself.
 
 <table align="center">
 
