@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently majoring in computer science in [SCSE](http://sdcs.sysu.edu.cn) of Sun Yat-sen University.
 
-- 🌱 I’m currently learning Computer Vision and High-Performance Computing both.
+- 🌱 I’m currently learning Computer Graphics and High-Performance Computing.
 
 <!-- - 🤔 I’m looking for help with video understanding, HPC programming. -->
 
