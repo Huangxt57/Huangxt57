@@ -25,7 +25,7 @@ A brief [résumé](https://www.notion.so/melonhwang/Huan-Teng-Hwang-415a0f2195b8
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 15 May, 2021 - 22 May, 2021
+Week: 16 May, 2021 - 23 May, 2021
 
 Python     5 hrs 46 mins   ███████████████████████▒░   93.87 % 
 Markdown   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
