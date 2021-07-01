@@ -25,7 +25,7 @@ A brief [résumé](https://www.notion.so/melonhwang/Huan-Teng-Hwang-415a0f2195b8
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 23 June, 2021 - 29 June, 2021
+Week: 24 June, 2021 - 30 June, 2021
 
 C++        16 hrs 5 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.84 % 
 Other      3 hrs 54 mins   ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.44 % 
