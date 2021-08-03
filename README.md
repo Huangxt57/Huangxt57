@@ -25,7 +25,7 @@ A brief [résumé](https://soar0815.notion.site/Hsuan-Teng-Hwang-415a0f2195b84c7
 🧑‍💻 Weekly Coding Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2021 - 01 August, 2021
+Week: 27 July, 2021 - 02 August, 2021
 
 C      3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
