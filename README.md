@@ -7,6 +7,7 @@
 <!-- and the number of visitors for this page is  -->
 <!-- ![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS). -->
 
+![Metrics](https://metrics.lecoq.io/Huangxt57?template=classic&isocalendar=1&introduction=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FShanghai)
 
 - 🔭 I’m currently majoring in computer science in [SCSE](http://sdcs.sysu.edu.cn) of Sun Yat-sen University.
 
@@ -18,31 +19,3 @@
 
 A brief [résumé](https://www.melon-hwang.top) describing myself.
 
-<table align="center">
-
-<td>
-
-🧑‍💻 Weekly Coding Statistics
-<!--START_SECTION:waka-->
-```text
-Week: 09 September, 2021 - 15 September, 2021
-
-Other    2 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.10 % 
-Bash     15 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.31 % 
-Python   15 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.05 % 
-JSON     13 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.85 % 
-INI      8 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.57 % 
-```
-<!--END_SECTION:waka-->
-
-</td>
-
-<td>
-
-💻 Github Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huangxt57&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-
-</table>
