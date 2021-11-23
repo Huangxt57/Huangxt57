@@ -7,6 +7,13 @@
 <!-- ![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS). -->
 
 <!--START_SECTION:waka-->
+```text
+Cuda         3 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   40.85 % 
+ObjectiveC   1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+CMake        1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+C            38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Go           30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+```
 <!--END_SECTION:waka-->
 
 
