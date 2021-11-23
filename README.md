@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **huangxt57@mail2.sysu.edu.cn**
 
-- 📄 Know about my experiences: [melon-hwang.top](melon-hwang.top)
+- 📄 Know about my experiences: [melon-hwang.top](https://melon-hwang.top)
 
 
 <h3 align="left">Languages and Tools:</h3>
