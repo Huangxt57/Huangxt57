@@ -6,7 +6,7 @@
 <!-- and the number of visitors for this page is  -->
 <!-- ![](https://komarev.com/ghpvc/?username=huangxt57&color=blue&label=PROFILE+VIEWS). -->
 
-<h3 align="center">Tags: GPU scheduling, heterogenous computing</h3>
+<h3 align="center">Tags: GPU, heterogenous computing</h3>
 
 - 📫 How to reach me: **huangxt57@mail2.sysu.edu.cn**
 
