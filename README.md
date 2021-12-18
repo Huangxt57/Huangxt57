@@ -8,7 +8,7 @@
 
 <h3 align="center">Tags: GPU, heterogenous computing</h3>
 
-- 📫 How to reach me: **huangxt57@mail2.sysu.edu.cn**
+- 📫 How to reach me: `echo aHVhbmd4dDU3QG1haWwyLnN5c3UuZWR1LmNuCg== | base64 -d`
 
 - 📄 Know about my experiences: [huangxt.cn](https://huangxt.cn)
 
