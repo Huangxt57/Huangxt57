@@ -21,6 +21,6 @@
 ```text
 Week: 30 December, 2021 - 05 January, 2022
 
-C       8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
