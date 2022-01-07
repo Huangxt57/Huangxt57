@@ -19,8 +19,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
