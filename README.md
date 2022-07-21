@@ -8,7 +8,7 @@
 
 <h3 align="center">Tags: GPU, heterogenous computing</h3>
 
-- 📫 How to reach me: `echo aHVhbmd4dDU3QG1haWwyLnN5c3UuZWR1LmNuCg== | base64 -d`
+- 📫 How to reach me: `echo aUBodWFuZ3h0LmNuCg== | base64 -d`
 
 - 📄 Know about me: [huangxt.cn](https://huangxt.cn)
 
