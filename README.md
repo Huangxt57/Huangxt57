@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: `echo aUBodWFuZ3h0LmNuCg== | base64 -d`
 
-- 📄 Know about me: [huangxt.cn](https://huangxt.cn)
+- 📄 Know about me: [huangxt.com](https://huangxt.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
