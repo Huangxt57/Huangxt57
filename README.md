@@ -20,7 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 08 December 2022 - To: 15 December 2022
+
+XML   40 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
