@@ -8,7 +8,7 @@
 
 <h3 align="center">Tags: GPU, heterogenous computing</h3>
 
-- 📫 How to reach me: `echo aUBodWFuZ3h0LmNuCg== | base64 -d`
+- 📫 How to reach me: the TXT DNS record of `me.huangxt.cn`
 
 - 📄 Know about me: [huangxt.com](https://huangxt.com)
 
